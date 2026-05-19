@@ -18,6 +18,9 @@
 - Bump Java SDK from v8.40.0 to v8.41.0 ([#1376](https://github.com/getsentry/sentry-unreal/pull/1376))
   - [changelog](https://github.com/getsentry/sentry-java/blob/main/CHANGELOG.md#8410)
   - [diff](https://github.com/getsentry/sentry-java/compare/8.40.0...8.41.0)
+- Bump Crash Reporter from v0.2.0 to v0.3.0 ([#6](https://github.com/d-franklin/sentry-unreal/pull/6))
+  - [changelog](https://github.com/getsentry/sentry-desktop-crash-reporter/blob/main/CHANGELOG.md#030)
+  - [diff](https://github.com/getsentry/sentry-desktop-crash-reporter/compare/0.2.0...0.3.0)
 
 ## 1.11.0
 
